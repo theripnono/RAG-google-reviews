@@ -2,8 +2,12 @@ from flask import Flask
 from config import Config
 from models import db, ma
 from routes import todo_bp
+from flask_cors import CORS
+
 
 app = Flask(__name__)
+CORS(app, resources={r"/api/*": {"origins": "http://localhost:8080"}})
+
 app.config.from_object(Config)
 
 db.init_app(app)
