@@ -23,12 +23,15 @@ def add_todo():
 # Route: Get all todos
 @todo_bp.route('/todo', methods=['GET'])
 def get_todos():
+
     todos = Todo.query.all()
     return jsonify(todos_schema.dump(todos))
+
 
 # Route: Get a single todo by ID
 @todo_bp.route('/todo/<int:id>', methods=['GET'])
 def get_todo(id):
+
     todo = Todo.query.get_or_404(id)
     return todo_schema.jsonify(todo)
 
