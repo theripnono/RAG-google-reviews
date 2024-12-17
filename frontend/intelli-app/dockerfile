@@ -1,29 +1,27 @@
-# Step 1: Build the Vue.js application
-FROM node:16-slim as build
+# Base image
+FROM node:lts-alpine
+
+# Install serve package
+RUN npm i -g serve
 
 # Set the working directory
 WORKDIR /app
 
-# Copy package.json and package-lock.json (if available)
-COPY package*.json ./
+# Copy the package.json and package-lock.json
+COPY package*.json ./ 
 
-# Install dependencies
+# Install project dependencies
 RUN npm install
 
-# Copy the rest of the application files
+# Copy the project files
 COPY . .
 
-# Build the Vue.js application for production
+# Build the project
 RUN npm run build
 
-# Step 2: Serve the Vue.js app using a lightweight web server
-FROM nginx:alpine
+# Expose a port
+EXPOSE 5000
 
-# Copy the built Vue.js app from the build stage to NGINX's serving folder
-COPY --from=build /app/dist /usr/share/nginx/html
-
-# Expose port 80 for NGINX
-EXPOSE 80
-
-# Start NGINX when the container is run
-CMD ["nginx", "-g", "daemon off;"]
+# Executables
+# Use the -l option to specify port 80 for serve. Update CMD
+CMD [ "serve", "-s", "dist", "-l", "80" ]
