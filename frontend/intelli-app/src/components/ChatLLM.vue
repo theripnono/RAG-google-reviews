@@ -1,7 +1,7 @@
 <template>
     <v-container>
       <v-card class="chat-card">
-        <v-card-title class="text-center">Get reviews inside</v-card-title>
+        <v-card-title class="text-center">Get reviews insights</v-card-title>
         <v-card-text class="chat-container">
           <v-list>
             <v-list-item v-for="message in messages" :key="message.id">
@@ -25,6 +25,8 @@
   </template>
   
   <script>
+  import api from '../services/api'; // Make sure to import your API service
+  
   export default {
     data() {
       return {
@@ -33,15 +35,22 @@
       };
     },
     methods: {
-      sendMessage() {
+      async sendMessage() {
         // Add user message to list
         this.messages.push({ content: this.newMessage, author: 'user' });
         this.newMessage = '';
   
-        // Simulate bot's reply
-        setTimeout(() => {
-          this.messages.push({ content: 'Hola! ¿En qué puedo ayudarte?', author: 'bot' });
-        }, 1000);
+        try {
+          // Make the GET request to your API
+          const response = await api.get('/reviews-insights', { params: { query: this.newMessage } });
+  
+          // Add bot's reply with the API response
+          this.messages.push({ content: response.data.insight, author: 'bot' });
+        } catch (error) {
+          // Handle error (e.g., show an error message)
+          this.messages.push({ content: 'Lo siento, hubo un error al obtener la información.', author: 'bot' });
+          console.error(error);
+        }
       },
     },
   };

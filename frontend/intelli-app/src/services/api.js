@@ -11,8 +11,8 @@ export default {
     return api.post(endpoint, payload);
   },
 
-  chatpage(payload) {
-    return api.post('chat', payload);  // 'new-page-url' is your new endpoint
+  get(endpoint, params = {}) {
+    return api.get(endpoint, { params });  // For GET requests, passing query params
   },
 
 };
