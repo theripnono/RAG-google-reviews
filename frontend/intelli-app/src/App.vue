@@ -1,17 +1,12 @@
 <template>
   <v-app>
-    <v-main>
-      <Landing />
-    </v-main>
+    <!-- This is where the routed pages will be displayed -->
+    <router-view></router-view>
   </v-app>
 </template>
 
 <script>
-import Landing from './components/Landing.vue';
-
 export default {
-  components: {
-    Landing,
-  },
+  name: 'App',
 };
 </script>

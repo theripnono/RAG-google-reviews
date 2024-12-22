@@ -55,7 +55,7 @@
 import api from '../services/api';
 
 export default {
-  name: 'TodoList',
+  name: 'Landing',
   
   data() {
     return {
@@ -77,6 +77,7 @@ export default {
       try {
         const response = await api.post('/analyze', { url: this.url });
         console.log(response.data);
+        this.$router.push({ name: 'ChatLLM' });
       } catch (error) {
         console.error(error);
       } finally {

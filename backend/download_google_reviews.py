@@ -8,6 +8,9 @@ from selenium.common.exceptions import NoSuchElementException,WebDriverException
 from datetime import datetime
 from dateutil.relativedelta import relativedelta
 
+"""
+This class is used to download google reviews
+"""
 
 class GetGoogleReviews:
     def __init__(self, url:str):
@@ -90,8 +93,6 @@ class GetGoogleReviews:
                     result = 200
                     return result
             return int((result / 10) + 1)
-
-            return int(int(result) / 10) + 1
 
         def scrolling(counter):
 
