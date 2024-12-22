@@ -1,5 +1,4 @@
 import os
-import ast
 import pandas as pd
 from dotenv import dotenv_values
 from langchain_openai import ChatOpenAI
