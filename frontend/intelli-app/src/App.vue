@@ -1,17 +1,17 @@
 <template>
   <v-app>
     <v-main>
-      <TodoList />
+      <Landing />
     </v-main>
   </v-app>
 </template>
 
 <script>
-import TodoList from './components/TodoList.vue';
+import Landing from './components/Landing.vue';
 
 export default {
   components: {
-    TodoList,
+    Landing,
   },
 };
 </script>
