@@ -35,7 +35,7 @@
           color="primary"
           size="64"
         ></v-progress-circular>
-        <h2 class="mt-4" style="color: aquamarine;">Please wait until the reviews are downloaded...</h2>
+        <h2 class="mt-4" style="color:cadetblue">Please wait until the reviews are downloaded...</h2>
       </div>
     </v-overlay>
 

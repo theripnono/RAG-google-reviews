@@ -130,7 +130,7 @@ class GetGoogleReviews:
         print('starting...')
 
         chrome_options = webdriver.ChromeOptions()
-        #chrome_options.add_argument("--headless")  # show browser or not
+        chrome_options.add_argument("--headless")  # show browser or not
         chrome_options.add_argument("--lang=en-US")
         chrome_options.add_experimental_option("detach", True)
         driver = webdriver.Chrome(options=chrome_options)
@@ -157,7 +157,7 @@ class GetGoogleReviews:
         except TimeoutException:
             print("No reviews was found")
 
-        counter = count_reviews(header)
+        #counter = count_reviews(5)
         scrolling(5)
 
         data = get_data(driver)

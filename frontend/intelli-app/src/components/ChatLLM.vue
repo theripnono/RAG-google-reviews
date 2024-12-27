@@ -34,6 +34,10 @@
           :disabled="isLoading"
         ></v-text-field>
       </v-card-text>
+      <v-card-actions>
+        <!-- Back to Landing Page Button -->
+        <v-btn color="primary" @click="goToLandingPage">Back to init</v-btn>
+      </v-card-actions>
     </v-card>
   </v-container>
 </template>
@@ -85,7 +89,7 @@ export default {
         // Replace loading message with error
         this.messages.pop(); // Remove loading message
         this.messages.push({ 
-          content: 'Lo siento, hubo un error al obtener la información.', 
+          content: 'Oups!, Somenthing went wrong', 
           author: 'bot',
           loading: false
         });
@@ -93,6 +97,8 @@ export default {
       } finally {
         this.isLoading = false;
       }
+    }, 
+      goToLandingPage() {this.$router.push({ name: 'Landing' });
     },
   },
 };

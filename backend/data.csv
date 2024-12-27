@@ -1,163 +1,109 @@
 ,user_id,comment,time,date,rating
-0,user_1,"Este local vegetariano tiene muy buen ambiente y el personal es muy agradable y servicial. La comida está deliciosa porque el sabor es muy bueno.
-No obstante, no pongo 5 estrellas debido a que el precio me parece elevado para las porciones que ofrecen. Me parecen platos pequeños para un menú de 24€ (de entrante, principal y postre) que únicamente ofrece agua como bebida.",Hace 3 meses,2024-09-26,3 estrellas
-1,user_2,"Hacia mucho tiempo que no veniamos y no ha cambiado nada la calidad de la comida, estaba deliciosa.
-No obstante no le pongo 5 estrellas porque las lentejas al curry estaban un poco duras , y no se si ese fue el motivo de que tuviésemos una digestión llamémoslo ""complicada"".",Hace 2 meses,2024-10-26,4 estrellas
-2,user_3,"Pedimos tres tipo tostadas porque queríamos probar varias, tostá de Hummus, tostá de huevo y aguacate y queso con aguacate, que estaban muy buenas y las vistas son preciosas frente al puerto.
+0,user_1,Bonito sitio. Comida rica y de calidad. Pedimos foie de la casa y estaba exquisito. El rape jugoso y de buen sabor. Muy recomendable.,Hace 2 meses,2024-10-27,5 estrellas
+1,user_2,"Una experiencia increíble!!
+Fuimos a menú concertado y un verdadero éxito era mi segunda visita al restaurante y desde luego que no será la última
+El servicio de 10 el ambiente inmejorable súper tranquilo y agradable y ni que decir de la comida realmente IMPRESIONANTE  e INSUPERABLE  y en cuanto a cantidad no conseguimos terminar todo pero todo con un sabor increíble muy muy recomendable",Hace 6 meses,2024-06-27,5 estrellas
+2,user_3,"Nos ha encantado el sitio. La comida buenísima, la gente encantadora y luego tenían una barra de cócteles y un ambiente súper animado y buenísimo ! Aparte el sitio y el entorno era precioso y súper auténtico. Muy top, volveremos y lo recomendaremos 🥰",Hace 5 meses,2024-07-27,5 estrellas
+3,user_4,"Es otro must si andas por la zona de Irun. Con una terraza espectacular, en plena naturaleza y con un riachuelo alado. La comida muy buena, pero dentro hay carta (pagamos 70 euros por barba), y fuera hay una carta más trotero y económica. La comida es de calidad y está todo muy bueno. Por poner un pero el tiempo de espera",Hace 6 meses,2024-06-27,5 estrellas
+4,user_5,"Fuimos 6 personas, habíamos intentado varías veces conseguir mesa pero siempre estaba completo. Nos dimos cuenta enseguida porque. El servicio impecable, las camareras amables y sonrientes. La comida de una calidad suprema , el tomate exquisito, el rape , los calamares de otro planeta… y la chuleta un espectáculo. Gonzalo está haciendo las cosas bien. Ya esta en la lista de nuestros lugares preferidos. Gracias volveremos 🙏👌🏻",Hace un año,2023-12-27,5 estrellas
+5,user_6,"Sitio muy agradable pero caro en cuanto a calidad/precio, y más teniendo en cuenta que no hay servicio de terraza. Las raciones son muy pequeñas para el precio que tienen. Sobre todo los calamares, que a pesar de estar muy bien rebozados, no eran de calidad. Las alitas de pollo estaban muy buenas.",Hace 2 meses,2024-10-27,3 estrellas
+6,user_7,"Sitio bonito con encanto en medio de la naturaleza, con buena atención y los platos muy sabrosos pero en mi opinión es sitio para ir sólo una vez los precios son muy elevados si los comparas con otros restaurantes de la zona dónde se come muy bien por mejor precio ejemplo el plato de foie micuit pagas 19€ por dos trocitos pequeños, sólo la lubina 81, 60",Hace 3 meses,2024-09-27,4 estrellas
+7,user_8,"Tenía muchísimas ganas de venir a probar, y es que en esa cocina están los mejores cocineros, que no te lo cuenten❤️
+En general, el personal, presentación de platos y calidad de 10
+Marta y sus postres, no podía aguantar para probarla🫠",Hace 6 meses,2024-06-27,5 estrellas
+8,user_9,"Sitio espectacular igual que su servicio muy amables la comida , muy buena la txulera de buey , pues espectacular un capricho",Hace 3 meses,2024-09-27,5 estrellas
+9,user_10,"Sitio muy agradable si comes en la terraza. Comida rica rica, precio saladito, camareros/as en general bastante bordes…",Hace 4 meses,2024-08-27,3 estrellas
+10,user_11,"Genial!
+Hemos estado un par de veces y repetiremos muchas más!!
+Todos los platos riquísimos, y con materia prima de calidad, además de cocinada en su punto justo.
+Y un personal super atento y agradable.
+Totalmente recomendable.",Hace un año,2023-12-27,5 estrellas
+11,user_12,"Excelente trato, comida de lujo, hemos comido allí 6 personas y la verdad muy muy bien, una de las mejores chuletas que hemos probado (y somos amantes de chuleta), tomate km0 que se deshace en la boca. Recomendable es poco decir, volveremos",Hace un año,2023-12-27,5 estrellas
+12,user_13,"Excelente trato del personal hacia los clientes , este restaurante tiene un genero de exquisita calidad. Tiene dos tipos de restaurante uno pensado para ir con niños pequeños o de una comida sencilla para un día habitual, y el otro tiene una comida mas elaborada por mi parecer ambos son impecables.",Hace un año,2023-12-27,5 estrellas
+13,user_14,"No comí allí pero no lo voy a hacer por la gran simpatía ( ironía) que aportan el camarero joven que enseguida te cobra y la chica que te sirve. Uf sin terminar de servirte ya te están cobrando y con esa gran "" simpatía"". No es la primera vez pero ....si la última, un lugar bonito no compensa lo desagradables que son. Deja mucho que desear!!!",Hace 4 meses,2024-08-27,1 estrella
+14,user_15,"Eramos tres adultos y dos niños y salio a 70 por barba.Nos parecio caro. Lo que se come esta muy  rico, pero donde se come no esta a la altura, sillas y mesas de plástico vestidas,  las sillas muy incómodas, de propaganda de 18/70. Además después de comer no había servicio de mesas y nos hemos tenido que pedir las copas nosotros.
+Recomendaría diferenciar terraza con comedor.
+Gracias",Hace 4 meses,2024-08-27,1 estrella
+15,user_16,"Impresionante la experiencia en este restaurante! Para empezar la comida, producto de cercania, de altísima calidad y perfecta elaboración. La prueba es la ensalada mixta que tan fácil debería ser pero tan difícil encontrarla tan buena. Rape de lujo, txuleta de superlujo. Una pasada. El servicio nos sorprendió por lo elegante, moderno y poco invasivo. Sin duda a la altura. El emplazamiento idílico… de verdad el mejor restaurante que hemos visitado en lo q va de año.",Hace 10 meses,2024-02-27,5 estrellas
+16,user_17,"Un sitio muy agradable, comimos en la terraza de la carta de terraza.
+El servicio en esta zona es inexistente ya que tuvimos que recogernos la mesa de los anteriores comensales y también traernos la comida incluyendo cubiertos, platos y pan.
+Añadir que en este proceso tuvimos que esperar ya que algunas cosas no estaban disponibles.
+La comida correcta pero la relación calidad precio nos pareció sin duda deficiente.
+La ensalada de tomate km 0 nos pareció mediocre y escasa por el precio (18€).
+El pollo más bien soso y muy normalito en general (24€).
+Sintiéndolo mucho ya que el sitio es muy agradable, dudo que volvamos al menos para comer.",Hace 5 meses,2024-07-27,2 estrellas
+17,user_18,"La comida correcta, degustación de tomate y chuleta, tarta de queso y mojito. No nos parece barato, pero la calidad buena. El trato bastante somorro, muy justito, además les indicamos que habían cobrado un vino y un tinto de verano, de menos y no nos dieron ni las gracias. Un poquito más de simpatía, por favor !",Hace 3 meses,2024-09-27,3 estrellas
+18,user_19,"Relación calidad precio aceptable.
 
-Pedí cafe con leche sin lactosa, a lo que el chico me informó que no disponía de leche sin lactosa, solo leche entera o de avena.
+Pedimos 2 chuletas y ambas en el interior estaban frías, tal vez dejarlas en la parrilla 1 minuto más por cada lado ayudaría a que estuviesen en su perfecto punto.",Hace un año,2023-12-27,4 estrellas
+19,user_20,"Lo de la hostelería hoy en día es de traca. Racion de croquetas, otra de calamares y ración de costilla con vino: 67€. No te sirven. El camarero en la ventana para tirarlo al río. Mesa sin mantel, y te cobran por adelantado ¿cómo?  ¿Pecio de restaurante caro sin el servicio de restaurante caro? Lo primero que tiene que saber es qué son y dónde están. Son un merendero y están donde están. No son un Arzak con estrellas Michelin. Si me tengo que poner yo la mesa, servirme yo desde una venta, y pagar por adelantado (práctica de sitio a batalla), no me puedes cobrar 67€ un picoteo. Poned los pies en la tierra y centraos un poquito, por favor.",Hace 3 meses,2024-09-27,1 estrella
+20,user_21,"Hemos ido un dia de verano en el que hacia 38 grados a las 2 de la tarde. Un calor sofocante de esos dias tipicos de viento sur. Bien, pues llegamos y nos comentan que dentro no hay aire acondicionado y nos ponen en las mesas de fuera, a la sombra y al lado del rio. Segun nos sentamos lo primero que nos empieza a llegar a la mesa son bichos, ya que al estar al lado del rio no paraban de posarse los mosquitos en la mesa, platos, servilletas y vasos. La comida que pedimos estaba rica pero excesivamente cara en cuanto al precio que tiene. Tenia bastantes expectativas con este lugar, ya que era una recomendación pero desde luego nosé si elegimos mal dia, pero no repetiremos.",Hace 4 meses,2024-08-27,2 estrellas
+21,user_22,"Me ha sorprendido para bien este restaurante, es un lugar mágico, en plena naturaleza con amplia terraza, la comida a buen precio y con mucha variedad de vinos. Chuleta de muy buen género. Recomendado 💯",Hace un año,2023-12-27,5 estrellas
+22,user_23,Cominos genial ensaladas varias y un picoteo estupendo calabacin ala brasa buenisimo. Y anchoas fritas. Y un solomillo. Al Foi de vino reducido. Una maravilla tienisimo. Y postres fabulosos hechos en casa y un servicio estupendo al lado del río una maravilla de sitio,Hace 4 meses,2024-08-27,5 estrellas
+23,user_24,Cocina muy correcta. Sobresale el calabacin a la braza y la smash burguer de chuleta así como la torrija de postre. Dejamos la chuleta para volver a probarla. Precio por encima de 50€ persona,Hace 4 meses,2024-08-27,5 estrellas
+24,user_25,"La comida espectacular!!!
+Que buenas anchoas y el bacalao Impresionante!!!",Hace 3 meses,2024-09-27,5 estrellas
+25,user_26,"Volvimos pasado un tiempo pensando que iba a ser como el Estebenea anterior y nada más lejos de la realidad.
+Empezando con que los precios de algunos productos es desproporcionado, como por ejemplo, un mosto que en cualquier otro bar se considera pequeño, cuesta 2.20.
+Además el trato no fue nada agradable, teniendo la terraza prácticamente vacía sin haber acabado una de las consumiciones ya teníamos a la camarera preguntando de forma bastante directa si nos podía retirar ya las bebidas, tras decirle que no volvió a los 10 minutos para insistir.",Hace un año,2023-12-27,1 estrella
+26,user_27,"Tras el cambio de regentes, este restaurante cuenta con una bodega de caprichosa y con alta calidad, degustamos unos entrantes, rape y una chuleta muy buena todo buenísimo. Sin duda apetece volver.",Hace un año,2023-12-27,5 estrellas
+27,user_28,"Es mi segunda experiencia y cada vez me gusta mas, la comida esta rica, el trato inmejorable y el lugar en la naturaleza espectacular. Lo recomiendo sin duda.",Hace 3 meses,2024-09-27,5 estrellas
+28,user_29,"NADA RECOMENDABLE
+Hemos ido a comer y nos hemos ido pagando 219,92  muy disgustados con el servicio, demasiado tiempo entre platos y lo han rematado con el postre , no nos lo hemos comido del enfado que teniamos por la larga espera y nos dicen con sorna que no nos lo cobran, 2 postres 14€ menudo alivio!!!!!!! Ni postre ni café.Hemos entrado a las 14:00 y nos traian el postre a las 16:45.Restaurante que quiere ser de nivel y solo llega con el precio.DECEPCIONANTE",Hace 2 meses,2024-10-27,1 estrella
+29,user_30,"Lugar perfecto para una cena gastronómica y romantica pero tamvien para picar algo entre amigos. Naturaleza, respeto del producto y carta de vinos trabajada. El servicio es de gran   calidad.",Hace 3 meses,2024-09-27,5 estrellas
+30,user_31,"Una experiencia culinaria excepcional. Desde el momento en que entras, te sumerges en un ambiente acogedor y elegante. El servicio es impecable, con un personal atento y amable que siempre está dispuesto a satisfacer tus necesidades. La carta ofrece una amplia variedad de platos exquisitos, preparados con ingredientes frescos y de alta calidad. Cada bocado es una explosión de sabor que deleita los sentidos. Además, la presentación de los platos es simplemente impresionante. Sin duda, este restaurante se ha convertido en mi favorito y no puedo esperar para volver a disfrutar de otra deliciosa comida aquí.",Hace 8 meses,2024-04-27,5 estrellas
+31,user_32,"En general muy buena experiencia y recomendable.
+Se puede aparcar sin problema.
+El servicio es muy bueno y los camareros muy atentos.
+La comida en general buena",Hace 3 meses,2024-09-27,5 estrellas
+32,user_33,"Que puedo decir....lugar idílico, atención impecable y comida exquisita.
+Restaurante mas que recomendado, enhorabuena!
+PD: no dejo de pensar en aquellas alcachofas!",Hace 7 meses,2024-05-27,5 estrellas
+33,user_34,Hemos comido de diez!!!!! El trato increíble!!!! Para repetir sin duda.!!!! Tenéis que probar la torrija….la mejor q he probado 🥰🥰🥰,Hace 10 meses,2024-02-27,5 estrellas
+34,user_35,"Local con vistas al monte, comida muy buena. Camarer@s amables. Hemos comido muy bien!! Ambiente fabuloso muy tranquilo.",Hace 4 meses,2024-08-27,5 estrellas
+35,user_36,"El sitio solo con verlo, lo dice todo, el sonido del río y esa terraza 🧡
+El servicio, impecable y finalmente la comida muy buena, muy fina y de calidad. Muchas gracias, volveremos",Hace 5 meses,2024-07-27,5 estrellas
+36,user_37,"Restaurante inmejorable. Muy buena comida, trato exquisito, muy buena profesionalidad.
+Eso sí, muy recomendable si tienes una buena VISA.
+Precios bastante caros y no al alcance de cualquiera. Comí una hamburguesas que estaba exquisita, la verdad hay que decirla. Pero 18 euros por una hamburguesa, me parece un robo.(aunque la carne sea de primerisima calidad). Por ese precio tengo en cualquier sitio un menú de dos platos, postre, y bebida.",Hace 10 meses,2024-02-27,3 estrellas
+37,user_38,"Hemos comido hoy domingo 10 personas. Nos ha sorprendido el desastre de organización del sitio.
+Por partes, nos sientan al lado de la barra con la puerta abierta y un frío de la pera, pedimos que cierren la puerta pero como era el único lugar por el que había salida a las mesas del exterior, constantemente se abría la puerta por lo cual los que se han sentado al lado de la puerta no se han podido ni quitar la txamarra en toda la comida. Pagar por ir a pasar frío.
+Había dos camareras que hacían lo que podían las pobres como pollo sin cabeza pero dos camareros totalmente inoperativos, uno, un chaval muy joven detrás de la barra (a este le excusamos como es lógico) y el otro, un señor que no sacaba adelante nada y que se paseaba de aquí para allá sin fundamento alguno mientras las dos mujeres sacaban adelante el servicio a duras penas.
+Decir que entramos a la 13:30 y salimos a las 17 de la tarde, la comida no llegaba, no somos impacientes y sabemos esperar pero hicimos la digestión entre plato y plato, las pobres camareras avergonzadas y pidiéndonos disculpas.
+La comida regular, calidad precio carísimo todo y en mi caso, una hamburguesa de chuleta por 18 euros que no me gustó nada, no sabía a chuleta y las patatas fritas estaban quemadas. El cordero tampoco gustó (era cordero viejo a precio de cordero lechal) y los postres menos. Nadie pidió carne puesto que decían que costaba 85 euros el kilo!!!!! Ni la mejor sidrería del mundo!
+Teníamos bastantes expectativas y el lugar precioso pero mucha descoordinación en el equipo. Nos invitarona los cafés por las molestias pero no fue suficiente, la cuenta ascendió a más de 400 euros por un servicio pésimo.",Hace 7 meses,2024-05-27,2 estrellas
+38,user_39,Buen sitio. Producto de proximidad. El camarero muy atento y se le nota que es  del oficio. Precio un poco caro.,Hace 3 meses,2024-09-27,4 estrellas
+39,user_40,"Restaurante en el Barroo de Olabarria de Irene, muy buena atención y trabajando la parrilla muy bien. Tiene terraza y salón interior.  Muy buena carta de vinos.",Hace un año,2023-12-27,5 estrellas
+40,user_41,"Vergonzoso q te hagan pagar antes de comer,sirviéndote tu el vino y las copas q las sacan por una ventana,a la pregunta q si había algún problema con la comida des pues de haber pagado por adelantado….contestación,dentro hay hojas de reclamaciones. Realmente penosos",Hace 3 meses,2024-09-27,1 estrella
+41,user_42,"Comida de diez, exquisita,buena calidad...  fuimos con unos amigos y nos gusto mucho, el sitio muy acogedor, aunque había mucho barullo  de gente y cuando pagas esos precios quieres otra atmósfera, pero bueno se entiende porque era domingo de Semana Santa.",Hace 8 meses,2024-04-27,5 estrellas
+42,user_43,"Caserio muy bonito del barrio de Olaberria junto a la regata, para comer a la carta o en la terraza de picoteo. Antiguamente jugabamos a la toka y la rana con fichas de hierro...que recuerdos.",Hace un año,2023-12-27,5 estrellas
+43,user_44,"Buenísimo, buena relación precio calidad, comida de muy buena calidad. Hemos salido encantados.",Hace 2 meses,2024-10-27,5 estrellas
+44,user_45,"He venido a comer, sin reservar antes y la atención genial, el servicio muy agradable y la comida de 10!!!",Hace 2 meses,2024-10-27,5 estrellas
+45,user_46,"Comimos en la terraza, nos hicieron pagar antes de servirnos la comida. Hamburguesa no acorde en relación calidad precio (18€ ) pollo asado y ensalada sin más...
+Es una pena... porque hace años este lugar era un sitio muy recomendable.",Hace 8 meses,2024-04-27,1 estrella
+46,user_47,"Un diez en todo. La cena exquisita, pero la atención de Arkaitz y Alaitz fue inmejorable, estuvimos muy bien asesorados y ellos sonriendo en todo momento, felicidades. La cena fue unas croquetas, gambones y chuleta ( recomendada ). No tardaré mucho en volver y probar otros productos de la carta, todo tiene muy buena pinta. Enhorabuena Alaitz, Arkaitz, Gonzalo y todo el equipo.",Hace 8 meses,2024-04-27,5 estrellas
+47,user_48,"Buena comida , servicio muy lento entre entrantes y plato principal media hora de reloj y para los postres 15 minutos.",Hace 3 meses,2024-09-27,3 estrellas
+48,user_49,"Restaurante para añadir a tu lista de favoritos si eres de la zona o vienes de visita.
+Género de calidad, buenas raciones, camareros atentos y con una sonrisa que te hace sentir como en casa.
+Comida con sabor del de verdad, del que se nota que se a dedicado tiempo y cariño a su elaboración que por desgracia eso escasea cada vez más.
+Repetiría sin duda.",Hace 10 meses,2024-02-27,5 estrellas
+49,user_50,"El sitio esta bien, caserío con encanto y tiene una terraza amplia pero no me convenció.
 
-Aunque no me gusta la leche de avena y debido a mi intolerancia lo pedí, y en vaso porque lo prefiero antes que la taza, para mi sopresa nos cobraron 10cnt más por la leche de avena y un suplemento por el vaso, lo que me pareció bastante feo.
+-La smashburger (sin llegar a ser smash, cero costra que es lo que caracteriza esta hamburgesa) estaba muy buena pero los demás platos demasiado caros para lo que eran.
 
-Un desayuno bastante caro",Hace 3 meses,2024-09-26,3 estrellas
-3,user_4,"Local vegetariano, muy tranquilo, con terraza, ubicado en el puerto de Hondarribia. La comida está exquisita, comimos el menú del día que tienen (20,50€) y todo estaba delicioso. Cambian el menu cada semana. Parada obligatoria si quieres degustar platos vegetarianos.",Hace 7 meses,2024-05-26,5 estrellas
-4,user_5,"Desayuno exquisito. Uno de los mejores que hemos probado. A destacar el smoothie y la tostada con crema de cacahuete, plátano y chocolate, espectacular.",Hace 4 meses,2024-08-26,5 estrellas
-5,user_6,"La comida muy bien, todo muy rico, pero el problema es que desde que te sientas hasta que acabas de comer, tardan mucho, puede que haya sido solo cosa de hoy, pero desde que llegan los entrantes y de los entrantes pasamos al principal... He tenido mis dudas de si poner 5 estrellas porque de verdad, hemos tardado mucho en comer, pero es cierto que la comida está muy buena.
+-La atención en sala fue un poco caótica, reservamos dentro y nos indicándonos al momento de hacer la reserva que podíamos pedir todo lo de la carta de terraza sin problema y al llegar allí no fue así.
 
-Así que si nos quedamos con lo bueno, la comida merece la pena, es una muy buena opción para los vegetarianos y está muy bien ubicado.",Hace un año,2023-12-26,5 estrellas
-6,user_7,"Qué pena. Amaba este sitio. Han hecho varios cambios y en mi opinión para mucho peor. Ahora solo hay menú cerrado y 4 cosas para picar, por lo que variedad se reduce muchísimo. Pero lo peor es que las raciones son ridículas. Te quedas con hambre. Y eso que pedimos un entrante a parte! Además, la presentación de los platos ha bajado mucho. Todo es más sencillo. Imagino que genial para la preparación y rendimiento económico. Pero el resultado es algo mucho más mediocre.",Hace un mes,2024-11-26,2 estrellas
-7,user_8,"Hemos ido a desayunar y hemos pedido dos cafés, una tosta de aguacate queso y huevo poché, una tostada de crema de cacahuete y plátano y un trozo de tarta de zanahoria. La verdad es que todo muy rico pero el camarero bastante empanado. Tienen cosas en carta que luego no hay pero no se aclara mucho. El servicio algo lento también. Pero en general positivo. Para repetir. Las mezclas de sabores son brutales.",Hace un año,2023-12-26,4 estrellas
-8,user_9,"Muy recomendable.
+-Desde mi punto de vista tienen un rango de precios en relación calidad precio que no es el adecuado.",Hace un año,2023-12-27,3 estrellas
+50,user_51,"Me ha gustado mucho. La comida estaba rica y el precio asequible. El método  para pedir en terraza (que merece mucho la pena)es cuando menos original. Al estilo de los restaurantes de comida rápida. Pides en la ventana de la barra, pagas y te dan un avisador. Luego vas a recogerlo. No se me hizo incómodo. Fueron rápidos en atendernos.",Hace un año,2023-12-27,5 estrellas
+51,user_52,"Comedor, casero y entorno precioso. El servicio un 10, muy amables y profesionales. Y la comida… De primeros comimos los mejores mejillones, croquetas riquísimas y sopa de pescado muy delicada. De segundos mi hijo pidió el smashburger y la…",Hace 11 meses,2024-01-27,5 estrellas
+52,user_53,Con los nuevos dueños ha cambiado mucho y a mejor. Comida muy rica. No es barato pero la calidad de la comida que ofrecen lo justifica. Muy recomendable.,Hace 8 meses,2024-04-27,5 estrellas
+53,user_54,"Merendero McDonalds
+Un lugar en el que no esperes ser servido por que funciona como autoservicio. El día que estuvimos faltaban muchísimas cosas de la carta. Cada vez que pides…",Hace un año,2023-12-27,1 estrella
+54,user_55,"La comida está muy rica, al menos la que pudimos probar ya que se nos iban acabando los platos antes de poder pedirlos.…",Hace un año,2023-12-27,3 estrellas
+55,user_56,"Hemos estado comiendo hoy 7/12/23
 
-Tienen una carta con sentido y un servicio muy profesional del equipo. Atención muy buena y rápida a pesar de estar lleno.
-
-Pedimos dos croquetas. Notables.
-Gazpacho y berenjena (esta última muy buena salsa y combinación con el arroz)
-Y de principales arroz chaufa y fideua vegana. Esta última muy bien conseguida.
-
-De postre la tarta vegana era grande y contundente, sin ser empalagosa.
-
-Acabamos encantados, y lo recomendamos encarecidamente.
-
-Enhorabuena al restaurante, da gusto encontrar restaurantes vegetarianos dignos y a un precio razonable. 5/5 sin duda.",Hace 2 años,2022-12-26,5 estrellas
-9,user_10,"Menú cerrado por 18€ en la terraza.
-Ensalada de espinacas etc demasiado queso y muy poco vegetal. Le falta más espinacas y más lechuga. El queso se puede reducir a fina lluvia o lo retira el cliente si así lo desea.
-Lasaña de berenjena. Inicialmente nos parecía muy grasosa, pero al degustarla no es así.
-Arroz con leche de coco y mermelada de mango con una fina ralladura de Lima. Delicíoso.
-Los baños están limpios.
-La decoración del local muy apropiada.",Hace 2 años,2022-12-26,4 estrellas
-10,user_11,"La localización de Curry Verde es excelente, con mucha luz. El local también es muy bonito.
-El día que fuimos (26) no estaban de muy buen humor, por el motivo que fuera, y tampoco nos supieron explicar con certeza qué era vegano y qué no (el menú digital tampoco es excesivamente claro), esto no me da seguridad para comer allí... Aunque tras preguntar en cocina nos quedamos más tranquilas.
-La comida estaba muy rica, se agradecería que tengan reemplazos veganos, por ejemplo un queso vegano para la hamburguesa y no que te quiten ingredientes y te lo dejen al mismo precio.
-Creo que la verdadera integración del veganismo llegará cuando se ofrezcan alternativas :)",Hace 11 meses,2024-01-26,4 estrellas
-11,user_12,"Primero felicitar al equipo por ser el primer restaurante que visitamos en todo San Sebastián que mantenía algún tipo de distancia de seguridad entre las mesas, lo cual agradecimos enormemente.
-
-Además, la comida estaba riquísima, la salsa de las patatas  de lujo, el curry verde era una gozada y el wok de verduras delicioso! Y un postre de 10.
-El personal muy majo y atento.",Hace 4 años,2020-12-26,5 estrellas
-12,user_13,"Siempre es un gustazo ir. Comida rica y abundante. De precio es un poco cara, pero merece la pena.",Hace 4 meses,2024-08-26,5 estrellas
-13,user_14,Un sitio agradable. Con buena terraza y una carta muy buena para disfrutar de una comida vegetariana. 🌱,Hace 5 meses,2024-07-26,5 estrellas
-14,user_15,"Un restaurante de comida vegetariana-vegana deliciosa. Me quedé sorprendida con lo sabroso y rico que estaba la mayoría de la comida. Mi plato favorito es el arroz chaufa y tampoco os podéis ir sin probar el lemon pie, el mejor que he probado hasta ahora. Suele ser difícil encontrar sitio para comer sin haber reservado antes.",Hace un año,2023-12-26,5 estrellas
-15,user_16,"Mi tercera vez allí y cada vez que voy me quedo sorprendida con la sabrosísima mezcla de sabores y variedad de platos. Un vegetariano con muchas opciones veganas o veganizables (una pena tener que quitar el queso de los platos no veganos, ojalá poder sustituirlos por queso vegano).
-
-Pedimos albóndigas, arroz y verduras con salsa de curry verde, el calabacín ahumado y un par de croquetas de brócoli. El postre, una tarta vegana de chocolate y aguacate. Todo sabrosísimo. Muy recomendable.",Hace un año,2023-12-26,4 estrellas
-16,user_17,"Una muy buena opción para comer en Hondarribia, no soy vegetariano pero la verdad que en este restaurante está todo muy bueno.
-
-Las croquetas de puerro y queso emmental son increíbles y las comemos cada vez que pasamos por aquí.
-
-Los rollitos Thai también muy buenos y recomendables.
-
-Hemos probado también el malai kofta y el taglionini, recomiendo especialmente el malai 👌🏼👌🏼.
-
-El servicio, el local y la limpieza: impecables!",Hace un año,2023-12-26,5 estrellas
-17,user_18,"Lugar bonito, espacioso y luminoso. Dispone también de amplia terraza con vistas al puerto. Fuera de temporada de verano (entre junio y septiembre) hay cantidad aparcamientos gratuitos en los alrededores muy cerca. La comida preparada con gusto y en cantidades aceptables. Bueno, bonito y un precio acorde con éste tipo de cocina, cuyos productos parecen de calidad con resultado de platos sabrosos. Echaría en falta algo más de variedad ya que tengo intención de volver y en un par de veces más ya habré probado todo. El trato por el personal agradable y atento. Tronas para niños pequeños, amplios servicios equipados con cambiador para bebés y meriendas a partir de las 17:00 de la tarde. Fantástico",Hace 4 años,2020-12-26,5 estrellas
-18,user_19,"Es la segunda vez que venimos y se ha convertido en una parada obligatoria siempre que estamos en Hondarribia. Absolutamente todo lo que hemos probado está delicioso. En esta visita pedimos el rollito thai, las 3 croquetas que tienen (puerro, queso cabrales y brócoli) la ensalada viajera, el falafel y de postre plátano asado con sopa de coco. Todos los platos son recomendables pero viendo el nivel pide lo que quieras, seguro que está riquísimo.",Hace 2 años,2022-12-26,5 estrellas
-19,user_20,"Local vegetariano, muy tranquilo, con terraza y vistas al puerto de Hondarribia. El personal es muy amable y la comida está muy buena. Parada obligatoria si quieres degustar platos vegetarianos en esta localidad.",Hace un año,2023-12-26,5 estrellas
-20,user_21,"Una muy buena opción vegetariana y vegana en Hondarribia. La comida estuvo excelente: curry verde tailandés, wok, ensalada de quinoa y tarta de aguacate y crumble.
-El camarero fue muy amable y dispuesto. Una pena la chica que nos trajo la tarta, porque lo hizo con desganas y fue muy antipática. Recomiendo que mejor se quede en una parte del restaurante donde no tenga contacto con el público. No me gusta salir de casa para que una arpía me sirva una tarta! Por eso 4 y no 5 estrellas. Por lo demás: estupendo.",Hace 4 años,2020-12-26,4 estrellas
-21,user_22,"Llevaba bastante tiempo intentando probar este restaurante y la experiencia ha sido muy positiva.
-
-Pedimos la ensalada reverde, croquetas y el rollito thai para compartir, y después la hamburguesa, el arroz chaufa y los tallarines, todo estaba brutal!
-
-A destacar también la atención del servicio, muy serviciales y además nos hicieron muy buenas recomendaciones.
-
-Volveremos!",Hace 2 años,2022-12-26,5 estrellas
-22,user_23,"Después de mucho tiempo y muchos intentos, por fin pudimos probar sus platos.
-
-La carta nos pareció un poco corta de ahi que no ponga un 5 ⭐️, por ello los platos que ofrecen los tienen muy controlados de tanto repetirlos. Si algo funciona, para qué cambiarlo, así no defrauda.
-
-Pedimos unos entrantes: Rollitos thai y ensalada viajera. Y de plato principal, arroz chaufa y Rigatoni a la capponatta. Sin postre, pero con café.
-
-Para dos, quedamos bien, no saciados, pero en su justa medida de cantidad. De sabor, todo espectacular.
-
-El lugar acogedor, con mucho espacio, y disponen de terraza para los días apropiados poder comer fuera. El equipo muy atento y cordial.
-
-Un vegetariano para apuntar.
-
-Eso si, para reservar, hay que hacerlo con bastante tiempo, a nosotros nos costó.",Hace un año,2023-12-26,4 estrellas
-23,user_24,"Comida vegetariana riquísima!
-
-Tienen una carta variada con platos riquísimos y presentados de una forma preciosa. Una cosa que me gustó mucho es que en la página web, aparte de ver la carta completa, puedes filtrar aquellos alimentos a los que eres alérgico/intolerante y solo te salen aquellos platos que puedes degustar.
-
-La atención al cliente fue espectacular. Todos los camareros que nos atendieron son muy simpáticos y estuvieron pendientes de que estuviésemos agusto y de que no nos faltase nada.
-
-La ubicación es espectacular, con amplios lugares donde aparcar.
-
-Si tienes intención de ir te aconsejo que reserves mesa, ya que nosotros no reservamos y cogimos la última mesa en la parte de fuera.",Hace 2 años,2022-12-26,5 estrellas
-24,user_25,"La comida increíble y la atención estupenda. Sus cervezas artesanales muy recomendadas. En definitiva, un lugar para comer y descansar totalmente recomendable, tanto como por sus maravillosas vistas,  por la calidad precio y por su deliciosa salsa de curry verde, que de verdad no desmerece y hay que probar🤤…",Hace 4 años,2020-12-26,5 estrellas
-25,user_26,"El servicio una MARAVILLA, la comida ESPECTACULAR. Repetiremos seguro 🩷",Hace 5 meses,2024-07-26,5 estrellas
-26,user_27,"Restaurante vegetariano con muchas opciones tanto de desayuno como de carta para comer o cenar.
-
-Los platos son grandes asi que se pueden compartir para probar diferentes cosas.
-
-Pedimos la ensalada, curry thai y pasta con setas. De postre brownie y lemon pie, todo muy rico en un entorno muy agradable.",Hace 2 años,2022-12-26,4 estrellas
-27,user_28,"La chica que nos atendió muy irrespetuosa con todas las mesas “espérense un momento tengo más trabajo” llevaba esperando 20 minutos a que me atendieras  , así a varias mesas , muy borde al atendernos , menos mal que no volveré.
-Además le pedimos un cenicero para no tirar las colillas al suelo y su respuesta fue que nos levantásemos nosotros",Hace 4 semanas,2024-11-28,5 estrellas
-28,user_29,"Hemos comido súper agusto,mucha variedad de comida vegetariana buenísima y un personal muy agradable, repetiremos sin duda.",Hace un año,2023-12-26,5 estrellas
-29,user_30,"Camarero la atención poco profesional, por lo menos debía escuchar al cliente y máxime por una pequeña incidencia sin importancia, pero si no se escucha difícil de tratar mejorar.
-Por lo menos armonía ya que se dedican a esto de ser camareros de un negocio o de su negocio.
-No iré ni iremos nunca más.",Hace 2 meses,2024-10-26,1 estrella
-30,user_31,"Muy recomendable para los que les guste probar platos nuevos y sabores diferentes. Buen servicio y ambiente agradable. Gracias,volveremos!",Hace 2 años,2022-12-26,4 estrellas
-31,user_32,"Los totopos estaban muy duros y tardaron por un error cerca de 40 minutos en servirlo, pero después no nos los cobraron como cortesía. Nada que reprochar.
-Comida vegetariana de calidad y un trato cercano y amable. Hemos comido muy a gusto 👍🏻…",Hace 4 años,2020-12-26,5 estrellas
-32,user_33,"Un lugar muy especial para disfrutar de auténtica gastronomía vegetariana, hecho todo con mucho mimo.
-Está siempre al completo así que os animo a hacer vuestras reservas con tiempo o a aprovechar los días de sol para poder coger mesa en su terraza del náutico dónde no se necesita reserva.
-Felicidades por vuestro trabajo y crecimiento!! Que sigáis así Curry Verde!",Hace 6 años,2018-12-26,5 estrellas
-33,user_34,"La comida muy buena, el ambiente muy tranquilo(quizá porque fuimos pronto) y además pudimos entrar con nuestro perro.
-Eso sí, si te apetece un menú de esos que salen tan lleno que no te puedes mover....no es tu sitio. Pero precisamente por eso también me gustó",Hace 6 meses,2024-06-26,4 estrellas
-34,user_35,"El trato y el servicio son muy agradables, y la comida está increíble, lugar con opciones vegetarianas/veganas muy interesante. Sin duda para repetir!",Hace 2 años,2022-12-26,5 estrellas
-35,user_36,"Platos muy bien elaborados y originales. Muy sabrosos, y teniendo en cuenta que todos son vegetarianos.
-
-Atención del personal muy buena y rápida.
-
-Un punto en contra sería la abundancia de los platos.
-Precio/calidad muy bueno.
-
-Los platos de las fotos son para dos personas:
-- gyozas
-- curry amarillo
-- tagliolini
-- flan de dulce de leche con mascarpone
-- lemon pie",Hace 2 años,2022-12-26,4 estrellas
-36,user_37,"Todo muy bueno, los camareros muy simpáticos y la terraza estupenda. El único pero que podría sacarle es que hay pocas opciones veganas.",Hace 2 años,2022-12-26,5 estrellas
-37,user_38,"Un restaurante vegetariano con una carta variada ubicado en el puerto deportivo de Hondarribia. Fuimos a cenar un viernes (previa reserva y solo quedaba una mesa) dos personas y pedimos para compartir una croqueta de queso azul, una croqueta de brócoli al curry verde, un rollito tailandés y unos totopos con guacamole. Los totopos muy buenos y la croqueta de brócoli muy exótica y con sabor intenso.
-De plato principal, un curry rojo con salsa de cacahuete y leche de coco acompañado de fideos de arroz sin gluten (para celíacos) y una ensalada de burrata, tomate, mango y pesto sin gluten también.
-Todo muy rico.
-De postre un alfajor de dulce de leche y maicena (muy grande) y un flan de dulce de leche con queso mascarpone.
-Todo estupendo y precios adecuados.
-Bueno opción para celiacos",Hace 3 años,2021-12-26,5 estrellas
-38,user_39,"He ido 2 días a este sitio;
-
-El primer día pedimos unas tostadas de pan brioche con queso y huevo. Tardaron media hora en sacárnoslas (no había casi gente porque era entre semana y por la mañana), con la excusa de que no había pan brioche.
-En vez de salir a preguntarnos a ver si queríamos pedir otra cosa, nos la sacaron con pan rústico, con rucula y algo verde líquido por encima (que no ponía en la carta que llevaba). A mi acompañante no le gustaba el pan rústico y yo soy alérgica a la rucula. No dijimos nada porque no queríamos esperar otra media hora por una simple tostada.
-
-3 días después fuimos para darle otra oportunidad, pedimos lo mismo. Tardaron en atendernos 20 minutos, pero lo entendimos porque ese día había gente. Lo mismo en servirnos.
-Esta vez si había pan brioche, pero la tostada no era con los quesos que ponía en la carta; mozzarella, havarti y provolone creo recordar. Llevaba queso de cabra, que a mi no me gusta.
-Tampoco avisaron.
-
-No volveré a ir, deberían avisar de esas cosas, por si hay alguien a quien no le gusta/es alérgico a lo que van a poner como reemplazo.
-
-Por lo menos el huevo estaba bien",Hace 5 meses,2024-07-26,2 estrellas
-39,user_40,"Vegetariano recomendable para los que les gusta comer saludable y de cocina elaborada. Se echa de menos un menú diario, por lo de más la carta ofrece muchas posibilidades de elección. Trato muy agradable, facilidad para aparcar y con terraza perfecta para el buen tiempo. Las cantidades un poco justas por poner un pero. De 15 a 20€ persona",Hace 7 años,2017-12-26,4 estrellas
-40,user_41,"La simpatía del personal no es el punto fuerte del curry verde desde luego, si te preguntan por donde quieres el café si en taza o en vaso, es una trampa, en taza son 2€ y en vaso 2,80€, la comida está bien pero nada del otro mundo, con lo…",Hace un mes,2024-11-26,1 estrella
-41,user_42,"Tienen una amplia variedad de opciones veganas (también aptas a vegetarianos, además de tener también opciones únicamente vegetarianas) y la verdad que ""los tacos"" me sorprendieron de manera inesperada con la piña.…",Hace 5 años,2019-12-26,5 estrellas
-42,user_43,Restaurante vegetariano con vistas al puerto deportivo de Hondarribia. Antes estaba en el barrio de la Marina. Buena comida y buen trato. Totalmente recomendable. Tambien dan desayunos con tostas y yogures de caserío. Espacio amplio para ir con coches de niños. Amplia terraza cubierta.,Hace 6 años,2018-12-26,5 estrellas
-43,user_44,"Muy buen sitio para comer. Suele estar lleno así que te recomiendo que pidas mesa por teléfono y la reserves. Deja hueco para sus postres porque merecen mucho la pena. Las servilletas son de tela y el agua en jarra, no en plástico (punto extra).",Hace 4 años,2020-12-26,5 estrellas
-44,user_45,"He ido muchas veces a este restaurante y siempre salgo con una sonrisa.
-Todos los platos que he probado me han gustado. De la carta actual destacaría la hamburguesa de remolacha, el curry verde. La lemon pie está INCREÍBLE!!…",Hace un año,2023-12-26,5 estrellas
-45,user_46,Todo muy rico  ha sido un acierto el comer en este sitio la buger de setas increible jugosa tierna en pan era de mollete la combinacion un 10 y el bizcocho de zanahoria espectacular aademas un punto a su favor es que el agua es gratis,Hace 3 años,2021-12-26,5 estrellas
-46,user_47,"Excelente atención.
-Vistas muy agradables al puerto deportivo.
-Muy bien para ir con niños.…",Hace 5 años,2019-12-26,5 estrellas
-47,user_48,Estupendos desayunos y riquísimas comidas en un entorno maravilloso. Además van cambiando la elaboración de platos regularmente y ahora con menú del día,Hace un año,2023-12-26,5 estrellas
-48,user_49,"Buscaba un lugar tranquilo y aquí lo encontré. Los camareros, muy atentos, me atendieron apenas me senté. Cerveza fresquita, vistas al puerto, muy agradable, la ración de calamares bien de calidad y a precio razonable. Volveré por allí.",Hace 5 meses,2024-07-26,5 estrellas
-49,user_50,"La primera y no será la última vez que venga. Todo muy bueno y bien presentado. Las croquetas super ricas de puerros y emmental y otra de queso azul, una ensalada de temperatura con muchos sabores( granada, naranja, manzana nueces, patatas,…",Hace 6 años,2018-12-26,4 estrellas
+En una palabra...IMPRESIONANTE!! Se nota la calidad de la comida.La txuleta km0…",Hace un año,2023-12-27,5 estrellas
+56,user_57,Calidad precio muy caro. No comimos mal pero muy poca cantidad.,Hace 2 meses,2024-10-27,2 estrellas
+57,user_58,Comida excelente y muy buena relación calidad-precio!,Hace 4 meses,2024-08-27,5 estrellas
+58,user_59,Restaurante estupendo.Comida de primera categoría. Terraza cómoda y fresquita junto a un arroyo.,Hace 5 meses,2024-07-27,5 estrellas
+59,user_60,Un sitio tranquilo al aire libre al que ir con niños para pasar la tarde o comer o cenar. Los camareros son muy atentos y respetuosos y la comida de 10. Sin duda seguiremos viniendo y seguirá siendo nuestro bar- restaurante de confianza. Os invito a venir,Hace un año,2023-12-27,5 estrellas
