@@ -154,9 +154,3 @@ class ReviewAnalysisAgent:
         """
         return self.rag_chain.invoke(question)
 
-
-        
-agent = ReviewAnalysisAgent(llm_model = "gpt-4o-mini",
-                             emedding_model="sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2")
-response = agent.get_answer("¿Cual es la comida preferida de los usuarios?")
-print(response)
