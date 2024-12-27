@@ -1,4 +1,4 @@
-<template>
+<template> 
   <div class="position-relative">
     <v-container class="d-flex flex-column align-center justify-center fill-height">
       <v-card class="pa-8 text-center" style="background-color:#eeeeee">
@@ -97,4 +97,5 @@ export default {
   position: relative;
   height: 100vh;
 }
+
 </style>
