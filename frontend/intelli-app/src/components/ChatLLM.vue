@@ -34,21 +34,23 @@
         newMessage: '',
       };
     },
-    methods: {
-      async sendMessage() {
-        // Add user message to list
-        this.messages.push({ content: this.newMessage, author: 'user' });
-        this.newMessage = '';
-  
-        try {
-          // Make the GET request to your API
-          const response = await api.get('/reviews-insights', { params: { query: this.newMessage } });
-  
-          // Add bot's reply with the API response
-          this.messages.push({ content: response.data.insight, author: 'bot' });
-        } catch (error) {
-          // Handle error (e.g., show an error message)
-          this.messages.push({ content: 'Lo siento, hubo un error al obtener la información.', author: 'bot' });
+methods: {
+    async sendMessage() {
+      const userMessage = this.newMessage;  // Store the current message before clearing it
+
+      // Add user message to the list
+      this.messages.push({ content: userMessage, author: 'user' });
+      this.newMessage = '';  // Clear the input field
+
+      try {
+        // Make the POST request to your API with the user's message
+        const response = await api.post('/reviews-insights', { question: userMessage });
+
+        // Add bot's reply with the API response
+        this.messages.push({ content: response.data.data, author: 'bot' });
+      } catch (error) {
+        // Handle error (e.g., show an error message)
+        this.messages.push({ content: 'Lo siento, hubo un error al obtener la información.', author: 'bot' });
           console.error(error);
         }
       },
