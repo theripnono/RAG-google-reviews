@@ -1,6 +1,7 @@
 # IntelliReview App
-The app uses Flask for the REST API backend and Vue.js for the frontend.
-It downloads the reviews from Google Reviews and uses RAG techniques to query the downloaded users reviews.
+It retrieves and stores reviews from Google Reviews, processing them for efficient querying. By employing Retrieval-Augmented Generation (RAG) techniques, the app enhances search capabilities, allowing users to query the downloaded reviews interactively and contextually. 
+
+The application integrates Flask as a REST API backend and Vue.js for the frontend.
 
 
 Paste the establishment url, it must be similar to:
