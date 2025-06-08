@@ -2,6 +2,8 @@
 It retrieves and stores reviews from Google Reviews, processing them for efficient querying. By employing Retrieval-Augmented Generation (RAG) techniques, the app enhances search capabilities, allowing users to query the downloaded reviews interactively and contextually. 
 
 The application integrates Flask as a REST API backend and Vue.js for the frontend.
+## Preview
+![preview_app](https://github.com/user-attachments/assets/f85ed9c7-3cf1-4b65-b884-a35d84ed03ac)
 
 
 Paste the establishment url, it must be similar to:
@@ -23,5 +25,3 @@ Create an .ENV file in the backend folder with your personal API-KEY.
 
         OPENAI_API_KEY='your-api-key'
         
-## Preview
-![preview_app](https://github.com/user-attachments/assets/f85ed9c7-3cf1-4b65-b884-a35d84ed03ac)
